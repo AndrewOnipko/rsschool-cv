@@ -1,1 +1,1 @@
-https://github.com/AndrewOnipko/rsschool-cv/cv
+https://github.com/AndrewOnipko/rsschool-cv/tree/gh-pages/cv
